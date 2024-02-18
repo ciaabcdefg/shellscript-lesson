@@ -1,12 +1,12 @@
-# name="Ittiwat"
-# surname="Chuchoet"
+name="Ittiwat"
+surname="Chuchoet"
 
-# echo "$name $surname"
+echo "$name $surname"
 
-# name="Lil"
-# surname="BossX"
+name="Lil"
+surname="BossX"
 
-# echo "$name$surname"
+echo "$name$surname"
 
-# echo "First Input: $1"
-# echo "Second Input: $2"
+echo "First Input: $1"
+echo "Second Input: $2"
